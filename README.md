@@ -56,10 +56,10 @@ I enjoy building scalable web applications and crafting intuitive user experienc
 ## 📊 GitHub & LeetCode Stats
 
 ### GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AarushiGoel&show_icons=true&theme=dark)
+
 
 ### Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AarushiGoel&layout=compact&theme=dark)
+
 
 ### LeetCode Stats
 ---
