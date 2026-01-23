@@ -110,7 +110,7 @@ I enjoy building **scalable web applications**, crafting **clean UI/UX**, and so
 ## 🧠 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/unadkat7?theme=dark&font=Karma&ext=contest"/>
+  <img src="https://leetcard.jacoblin.cool/JayUnadkat?theme=dark&font=Karma&ext=contest"/>
 </p>
 
 ---
