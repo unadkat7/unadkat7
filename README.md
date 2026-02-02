@@ -1,15 +1,12 @@
 # Hi, I'm Jay Unadkat 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Developer;Open+Source+Enthusiast;DSA+Learner;Building+Scalable+Web+Apps" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Builder;Real-Time+Systems+Enthusiast;Hackathon+Runner+Up;System+Design+Learner" />
 </p>
 
-🚀 **Full-Stack Developer | MERN Stack | Open-Source Enthusiast**  
-📍 Gandhinagar, Gujarat, India 🇮🇳  
-
-I enjoy building scalable web applications, crafting clean UI/UX, and solving real-world problems using modern web technologies.
-
 ---
+
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:0e75b6,100:00f7ff&height=90&section=header"/>
 
 ## 🌐 Connect With Me 
 
@@ -36,15 +33,18 @@ I enjoy building scalable web applications, crafting clean UI/UX, and solving re
 
 ---
 
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:00f7ff,100:0e75b6&height=70&section=header"/>
+
 ## 🚀 About Me
 
 - 🧠 Learning **System Design, Backend Architecture & API Security**
-- 🛠 Building using **MERN Stack & Supabase**
-- 🤝 Open to **Open Source Collaboration**
-- 💬 Ask me about **React, Node.js, Databases, REST APIs**
-- 🎯 Regular **DSA & Problem Solving Practice**
+- 🛠 Building **Real-Time + MERN + Supabase Apps**
+- 🏆 Hackathon **Runner-Up**
+- 🎯 Consistent **DSA Practice**
 
 ---
+
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:0e75b6,100:00f7ff&height=70&section=header"/>
 
 ## 🧰 Tech Stack
 
@@ -52,14 +52,9 @@ I enjoy building scalable web applications, crafting clean UI/UX, and solving re
   <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white"/>
 </p>
 
@@ -69,7 +64,6 @@ I enjoy building scalable web applications, crafting clean UI/UX, and solving re
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white"/>
@@ -77,13 +71,30 @@ I enjoy building scalable web applications, crafting clean UI/UX, and solving re
 
 ---
 
-## 👀 Profile Visits
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:00f7ff,100:0e75b6&height=70&section=header"/>
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=unadkat7&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+## 📊 Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=unadkat7&theme=react-dark&hide_border=true&area=true" />
 </p>
 
 ---
 
-⭐ **Thanks for visiting!**  
-Feel free to explore my repositories, raise issues, or connect!
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/unadkat7/unadkat7/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 👀 Profile Visits
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=unadkat7&label=Profile%20Views&color=0e75b6&style=flat"/>
+</p>
+
+---
+
+⭐ **Thanks for visiting!**
