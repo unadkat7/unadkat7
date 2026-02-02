@@ -41,8 +41,6 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0:0e75b6,100:00f7ff&height=70&section=header"/>
-
 ## 🧰 Tech Stack
 
 <p>
