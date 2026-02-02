@@ -1,7 +1,7 @@
 # Hi, I'm Jay Unadkat 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Builder;Real-Time+Systems+Enthusiast;Hackathon+Runner+Up;System+Design+Learner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Builder;Hackathon+Runner+Up;System+Design+Learner" />
 </p>
 
 ---
