@@ -34,10 +34,10 @@
 
 ## 🚀 About Me
 
-- 🧠 Learning **System Design, Backend Architecture & API Security**
-- 🛠 Building **Real-Time + MERN + Supabase Apps**
-- 🏆 Hackout'25 **Runner-Up**
-- 🎯 Consistent **DSA Practice**
+- 🧠 Learning System Design, Backend Architecture, and API Security
+- 🛠  Building Real-Time Applications using MERN Stack and Supabase
+- 🏆 Developing projects with Next.js (App Router, API Routes, Modern React Patterns)
+- 🆕 Hackout'25 Runner-Up
 
 ---
 
