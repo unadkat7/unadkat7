@@ -35,7 +35,7 @@
 ## 🚀 About Me
 
 - 🧠 Learning System Design, Backend Architecture, and API Security
-- 🛠  Building Real-Time Applications using MERN Stack and Supabase
+- 🛠  Building Real-Time Applications using MERN Stack 
 - 🏆 Developing projects with Next.js (App Router, API Routes, Modern React Patterns)
 - 🆕 Hackout'25 Runner-Up
 
